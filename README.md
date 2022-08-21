@@ -2,6 +2,7 @@
 
 
 ![HTML 5](https://user-images.githubusercontent.com/88853370/185797957-146d62ed-7ae9-4e37-9a6b-008fde39d3ce.svg)
+![CSS](https://user-images.githubusercontent.com/88853370/185798035-b4450449-4f11-414c-8bc5-0ca9b22849d8.svg)
 
 
 
